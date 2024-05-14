@@ -1,20 +1,17 @@
 ---
-title: Deneme Yazısı
-description: Bu bir deneme Yazısıdır.
-slug: deneme-yazi
+title: KDV Tevkifatı İade ve Mahsup
+description: KDV Uygulama tebliğinde KDV tevkifatı iadesi düzenlemeleri
+slug: tevkifat iadesi
 date: 2024-05-14 00:00:00+0000
-image: cover.jpg
+image: sirkuler.jpg
 categories:
-    - Example Category
-    - Deneme
+    - KDV
 tags:
-    - Example Tag
-    - Deneme
+    - KDV iadesi
+    - KDV Uygulama Tebligi
+    - KDV Tevkifatı İadesi
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
-
-Deneme yazısı
-
 
 
 - ## tevkifat iade mahsup
