@@ -2,7 +2,7 @@
 title: Deneme Yazısı
 description: Bu bir deneme Yazısıdır.
 slug: deneme-yazi
-date: 2024-14-05 00:00:00+0000
+date: 2024-05-14 00:00:00+0000
 image: cover.jpg
 categories:
     - Example Category
