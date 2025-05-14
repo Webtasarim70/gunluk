@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "http://eekinci.com/gunluk/"
+baseurl = "/gunluk/"
 # languageCode = "en-us"
 languageCode = "tr"
 paginate = 5
