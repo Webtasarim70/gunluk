@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "/gunluk/"
+baseurl = "https://webtasarim70.github.io/gunluk"
 # languageCode = "en-us"
 languageCode = "tr"
 paginate = 5
